@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上
 "love_date": "2020-10-26",
 # 金句中文，每天都会更爱你
-"note_ch": "",
+"note_ch": "每天都会更爱你!",
 # 金句英文
-"note_en": ""
+"note_en": "Love you everyday!"
 }
